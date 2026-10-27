@@ -11,7 +11,6 @@
 
 ### About
 
-- **ML Intern @ LivingThings.ai** — document intelligence (DocAI), running in production
 - I work on the expensive part: inference cost, latency, and the systems around the model
 - Final-year B.Tech CS, PES University, Bangalore
 - **Open to AI/ML and software engineering roles** — Bangalore or remote
